@@ -13,4 +13,4 @@ epic coding example
 
 - [x] epic coding
 - [x] more epic coding
-- [ ] fixng epic code
+- [ ] fixng epic coding
